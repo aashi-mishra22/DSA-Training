@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
+| [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,4 +93,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
