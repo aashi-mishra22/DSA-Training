@@ -10,6 +10,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
