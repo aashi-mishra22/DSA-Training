@@ -9,6 +9,7 @@
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1470-shuffle-the-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -22,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
