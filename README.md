@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -27,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aashi-mishra22/DSA-Training/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -44,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -123,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -160,6 +164,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -173,4 +178,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
