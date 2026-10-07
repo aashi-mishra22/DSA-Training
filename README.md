@@ -43,11 +43,13 @@
 | [0007-reverse-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
+| [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aashi-mishra22/DSA-Training/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
