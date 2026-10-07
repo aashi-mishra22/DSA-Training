@@ -183,4 +183,5 @@
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/aashi-mishra22/DSA-Training/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
