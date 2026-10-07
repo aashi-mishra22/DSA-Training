@@ -32,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
@@ -129,6 +131,7 @@
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -179,4 +182,5 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
