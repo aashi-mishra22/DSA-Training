@@ -48,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashi-mishra22/DSA-Training/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
