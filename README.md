@@ -49,6 +49,7 @@
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashi-mishra22/DSA-Training/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -75,6 +76,7 @@
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
@@ -147,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Counting Sort
