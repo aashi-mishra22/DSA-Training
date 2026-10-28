@@ -12,6 +12,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -52,6 +53,7 @@
 | [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashi-mishra22/DSA-Training/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
