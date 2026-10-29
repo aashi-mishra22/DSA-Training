@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/aashi-mishra22/DSA-Training/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -201,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/0258-add-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
