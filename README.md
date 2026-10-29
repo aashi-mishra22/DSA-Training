@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashi-mishra22/DSA-Training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aashi-mishra22/DSA-Training/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
@@ -102,6 +104,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/aashi-mishra22/DSA-Training/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
