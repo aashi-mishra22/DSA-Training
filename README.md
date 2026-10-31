@@ -44,6 +44,7 @@
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
