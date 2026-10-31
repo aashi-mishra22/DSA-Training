@@ -45,6 +45,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0206-reverse-linked-list/) | Easy |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/aashi-mishra22/DSA-Training/tree/main/0231-power-of-two/) | Easy |
@@ -112,6 +114,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/aashi-mishra22/DSA-Training/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -219,6 +222,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
