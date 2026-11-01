@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -30,6 +31,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aashi-mishra22/DSA-Training/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -156,6 +158,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
