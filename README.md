@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/aashi-mishra22/DSA-Training/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
@@ -127,6 +128,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aashi-mishra22/DSA-Training/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
@@ -171,6 +173,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
