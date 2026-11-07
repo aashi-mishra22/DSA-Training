@@ -110,6 +110,7 @@
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
