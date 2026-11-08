@@ -167,6 +167,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0143-reorder-list/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -261,4 +263,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
