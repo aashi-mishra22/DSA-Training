@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -186,6 +187,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Matrix
@@ -269,4 +271,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
