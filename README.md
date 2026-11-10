@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/aashi-mishra22/DSA-Training/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/aashi-mishra22/DSA-Training/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aashi-mishra22/DSA-Training/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/aashi-mishra22/DSA-Training/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -187,6 +189,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/aashi-mishra22/DSA-Training/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
