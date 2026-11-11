@@ -118,6 +118,7 @@
 | [0014-longest-common-prefix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/aashi-mishra22/DSA-Training/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aashi-mishra22/DSA-Training/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
@@ -304,8 +306,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
