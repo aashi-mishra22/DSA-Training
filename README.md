@@ -252,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/aashi-mishra22/DSA-Training/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0400-nth-digit](https://github.com/aashi-mishra22/DSA-Training/tree/main/0400-nth-digit/) | Medium |
 | [0704-binary-search](https://github.com/aashi-mishra22/DSA-Training/tree/main/0704-binary-search/) | Easy |
@@ -314,4 +315,8 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/aashi-mishra22/DSA-Training/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
