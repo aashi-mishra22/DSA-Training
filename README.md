@@ -21,6 +21,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0704-binary-search](https://github.com/aashi-mishra22/DSA-Training/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -217,6 +218,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aashi-mishra22/DSA-Training/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -329,11 +331,13 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0226-invert-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0226-invert-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
