@@ -32,6 +32,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aashi-mishra22/DSA-Training/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/aashi-mishra22/DSA-Training/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
