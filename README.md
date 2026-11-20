@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/aashi-mishra22/DSA-Training/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -168,6 +169,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
