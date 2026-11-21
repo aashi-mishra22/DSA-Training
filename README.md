@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/aashi-mishra22/DSA-Training/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -143,6 +144,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aashi-mishra22/DSA-Training/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -310,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/aashi-mishra22/DSA-Training/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
