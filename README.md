@@ -138,6 +138,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aashi-mishra22/DSA-Training/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
