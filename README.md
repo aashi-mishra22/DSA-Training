@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/aashi-mishra22/DSA-Training/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/aashi-mishra22/DSA-Training/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -266,6 +267,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/aashi-mishra22/DSA-Training/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
