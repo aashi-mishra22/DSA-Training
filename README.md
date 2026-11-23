@@ -30,6 +30,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/aashi-mishra22/DSA-Training/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -101,6 +102,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashi-mishra22/DSA-Training/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/aashi-mishra22/DSA-Training/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aashi-mishra22/DSA-Training/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -318,6 +321,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aashi-mishra22/DSA-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/aashi-mishra22/DSA-Training/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +364,8 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aashi-mishra22/DSA-Training/tree/main/0226-invert-binary-tree/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
