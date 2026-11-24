@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/aashi-mishra22/DSA-Training/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/aashi-mishra22/DSA-Training/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -49,6 +50,7 @@
 | [0012-integer-to-roman](https://github.com/aashi-mishra22/DSA-Training/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/aashi-mishra22/DSA-Training/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/aashi-mishra22/DSA-Training/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aashi-mishra22/DSA-Training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -238,6 +240,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/aashi-mishra22/DSA-Training/tree/main/0036-valid-sudoku/) | Medium |
 | [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/1572-matrix-diagonal-sum/) | Easy |
