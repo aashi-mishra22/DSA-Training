@@ -40,6 +40,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aashi-mishra22/DSA-Training/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aashi-mishra22/DSA-Training/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashi-mishra22/DSA-Training/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashi-mishra22/DSA-Training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aashi-mishra22/DSA-Training/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +372,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aashi-mishra22/DSA-Training/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
