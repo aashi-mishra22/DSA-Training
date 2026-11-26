@@ -143,6 +143,7 @@
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aashi-mishra22/DSA-Training/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/aashi-mishra22/DSA-Training/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/aashi-mishra22/DSA-Training/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -186,6 +187,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/aashi-mishra22/DSA-Training/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aashi-mishra22/DSA-Training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -294,6 +296,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aashi-mishra22/DSA-Training/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/aashi-mishra22/DSA-Training/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/aashi-mishra22/DSA-Training/tree/main/0392-is-subsequence/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
