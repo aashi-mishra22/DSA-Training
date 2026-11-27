@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aashi-mishra22/DSA-Training/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/aashi-mishra22/DSA-Training/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/aashi-mishra22/DSA-Training/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/aashi-mishra22/DSA-Training/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/aashi-mishra22/DSA-Training/tree/main/0867-transpose-matrix/) | Easy |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashi-mishra22/DSA-Training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/aashi-mishra22/DSA-Training/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aashi-mishra22/DSA-Training/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
