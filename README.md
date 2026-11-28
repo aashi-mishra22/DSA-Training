@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aashi-mishra22/DSA-Training/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aashi-mishra22/DSA-Training/tree/main/0283-move-zeroes/) | Easy |
@@ -61,6 +62,7 @@
 | [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aashi-mishra22/DSA-Training/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -225,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -237,6 +240,7 @@
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -405,4 +409,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
