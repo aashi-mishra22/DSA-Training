@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/aashi-mishra22/DSA-Training/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashi-mishra22/DSA-Training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aashi-mishra22/DSA-Training/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
@@ -57,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/aashi-mishra22/DSA-Training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aashi-mishra22/DSA-Training/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashi-mishra22/DSA-Training/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aashi-mishra22/DSA-Training/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
@@ -222,6 +224,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aashi-mishra22/DSA-Training/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aashi-mishra22/DSA-Training/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -232,6 +235,7 @@
 | [0016-3sum-closest](https://github.com/aashi-mishra22/DSA-Training/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/aashi-mishra22/DSA-Training/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aashi-mishra22/DSA-Training/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aashi-mishra22/DSA-Training/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aashi-mishra22/DSA-Training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0268-missing-number/) | Easy |
@@ -268,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aashi-mishra22/DSA-Training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aashi-mishra22/DSA-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -396,4 +401,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aashi-mishra22/DSA-Training/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/aashi-mishra22/DSA-Training/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
